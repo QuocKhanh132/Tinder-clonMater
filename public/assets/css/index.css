@@ -1,0 +1,22 @@
+.bg-image {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/011/475/non_2x/valentines-day-banner-design-of-hearts-on-pink-background-with-copy-space-illustration-vector.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.validity-error {
+  background-color: pink;
+}
+.notify-error {
+  display: none;
+  color:pink;
+  margin-top: 5px;
+  font-size: 13px;
+}
+.img-avatar {
+  height: 120px;
+  width: 150px;
+}
+.input {
+  width: 100px;
+}
